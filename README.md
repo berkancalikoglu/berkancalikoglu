@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A passionate Flutter Developer from Turkey</p>
+<p align="center">A passionate Flutter Developer from Türkiye</p>
 
 ###
 
